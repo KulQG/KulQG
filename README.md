@@ -28,3 +28,6 @@
 <img width="40px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 <img width="40px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />
 </div>
+
+## Мое резюме
+[hh.ru](https://nn.hh.ru/resume/024f0dafff05d4cc1f0039ed1f767347654943)
