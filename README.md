@@ -12,7 +12,6 @@
 * JavaScript / TypeScript
 * React + Redux
 * Git
-* Figma
 * Webpack
 * RESTful API
 * nodeJS (Express)
