@@ -9,10 +9,8 @@
 * HTML5
 * CSS3
 * Sass/SCSS
-* BEM
 * JavaScript / TypeScript
-* React
-* Redux
+* React + Redux
 * Git
 * Figma
 * Webpack
