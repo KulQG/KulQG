@@ -14,8 +14,8 @@
 * Git
 * Webpack
 * RESTful API
-* nodeJS (Express)
-* MongoDB
+* nodeJS (Express) + Nest.js
+* MongoDB, postgreSQL
 <div style="display: flex">
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
