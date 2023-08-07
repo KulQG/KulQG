@@ -5,7 +5,7 @@
 - В поиске настоящей работы с реальными кейсами 
 - Хочу работать в дружной и опытной команде 
 
-## Мой стек
+## Стек Фронтенд
 * HTML5
 * CSS3
 * Sass/SCSS
@@ -14,6 +14,7 @@
 * Git
 * Webpack
 * RESTful API
+## Стек Бэкенд
 * nodeJS (Express) + Nest.js
 * MongoDB, postgreSQL
 <div style="display: flex">
