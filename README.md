@@ -3,14 +3,14 @@
 - Web разработчик
 - Постоянно изучую новые технологии и практикуюсь 
 - В поиске работы 
-- Хочу работать в дружной и опытной команде 
 
 ## Стек Фронтенд
 * HTML5
 * CSS3
 * Sass/SCSS
 * JavaScript / TypeScript
-* React + Redux
+* React, Vue, Next
+* Tanstack, Redux, Zustand
 * Git
 * Webpack
 * RESTful API
